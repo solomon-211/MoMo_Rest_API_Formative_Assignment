@@ -1,5 +1,5 @@
 # MoMo_Rest_API_Formative_Assignment
-Hey there! This is our Mobile Money (MoMo) REST API project. We built it to manage transaction records from SMS data using pure Python - no frameworks, just the standard library.
+This is our Mobile Money (MoMo) REST API project. We built it to manage transaction records from SMS data using pure Python - no frameworks, just the standard library.
 
 ---
 
