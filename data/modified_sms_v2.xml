@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Mobile Money Transaction Data - Rwanda
+    Currency: RWF (Rwandan Francs)
+    Phone prefix: 250 (Rwanda country code)
+    Based on MTN MoMo Rwanda / Airtel Money transaction patterns
+-->
+<transactions>
+    <transaction id="1">
+        <type>Send Money</type>
+        <amount>5000</amount>
+        <sender>250780000001</sender>
+        <receiver>250780000002</receiver>
+        <timestamp>2026-01-15T10:30:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="2">
+        <type>Receive Money</type>
+        <amount>3000</amount>
+        <sender>250780000003</sender>
+        <receiver>250780000001</receiver>
+        <timestamp>2026-01-15T11:45:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="3">
+        <type>Withdraw Cash</type>
+        <amount>10000</amount>
+        <sender>250780000001</sender>
+        <receiver>AGENT001</receiver>
+        <timestamp>2026-01-15T14:20:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="4">
+        <type>Deposit Cash</type>
+        <amount>20000</amount>
+        <sender>AGENT002</sender>
+        <receiver>250780000004</receiver>
+        <timestamp>2026-01-16T09:15:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="5">
+        <type>Send Money</type>
+        <amount>7500</amount>
+        <sender>250780000002</sender>
+        <receiver>250780000005</receiver>
+        <timestamp>2026-01-16T12:30:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="6">
+        <type>Pay Bill</type>
+        <amount>15000</amount>
+        <sender>250780000001</sender>
+        <receiver>UTILITY001</receiver>
+        <timestamp>2026-01-17T08:00:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="7">
+        <type>Send Money</type>
+        <amount>2500</amount>
+        <sender>250780000003</sender>
+        <receiver>250780000001</receiver>
+        <timestamp>2026-01-17T16:45:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="8">
+        <type>Airtime Purchase</type>
+        <amount>1000</amount>
+        <sender>250780000004</sender>
+        <receiver>TELECOM001</receiver>
+        <timestamp>2026-01-18T10:10:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="9">
+        <type>Send Money</type>
+        <amount>12000</amount>
+        <sender>250780000005</sender>
+        <receiver>250780000002</receiver>
+        <timestamp>2026-01-18T13:30:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="10">
+        <type>Receive Money</type>
+        <amount>8000</amount>
+        <sender>250780000006</sender>
+        <receiver>250780000001</receiver>
+        <timestamp>2026-01-19T11:00:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="11">
+        <type>Send Money</type>
+        <amount>4500</amount>
+        <sender>250780000001</sender>
+        <receiver>250780000007</receiver>
+        <timestamp>2026-01-19T15:20:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="12">
+        <type>Withdraw Cash</type>
+        <amount>25000</amount>
+        <sender>250780000002</sender>
+        <receiver>AGENT003</receiver>
+        <timestamp>2026-01-20T09:30:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="13">
+        <type>Pay Bill</type>
+        <amount>18000</amount>
+        <sender>250780000003</sender>
+        <receiver>UTILITY002</receiver>
+        <timestamp>2026-01-20T14:00:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="14">
+        <type>Send Money</type>
+        <amount>6000</amount>
+        <sender>250780000004</sender>
+        <receiver>250780000008</receiver>
+        <timestamp>2026-01-21T10:45:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="15">
+        <type>Deposit Cash</type>
+        <amount>30000</amount>
+        <sender>AGENT001</sender>
+        <receiver>250780000005</receiver>
+        <timestamp>2026-01-21T11:30:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="16">
+        <type>Airtime Purchase</type>
+        <amount>2000</amount>
+        <sender>250780000006</sender>
+        <receiver>TELECOM002</receiver>
+        <timestamp>2026-01-21T16:00:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="17">
+        <type>Send Money</type>
+        <amount>9500</amount>
+        <sender>250780000007</sender>
+        <receiver>250780000001</receiver>
+        <timestamp>2026-01-22T08:30:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="18">
+        <type>Receive Money</type>
+        <amount>11000</amount>
+        <sender>250780000008</sender>
+        <receiver>250780000003</receiver>
+        <timestamp>2026-01-22T12:00:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="19">
+        <type>Pay Bill</type>
+        <amount>22000</amount>
+        <sender>250780000001</sender>
+        <receiver>UTILITY003</receiver>
+        <timestamp>2026-01-22T14:30:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="20">
+        <type>Send Money</type>
+        <amount>3500</amount>
+        <sender>250780000009</sender>
+        <receiver>250780000010</receiver>
+        <timestamp>2026-01-22T17:00:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="21">
+        <type>Withdraw Cash</type>
+        <amount>15000</amount>
+        <sender>250780000010</sender>
+        <receiver>AGENT002</receiver>
+        <timestamp>2026-01-22T18:15:00</timestamp>
+        <status>completed</status>
+    </transaction>
+    <transaction id="22">
+        <type>Send Money</type>
+        <amount>8500</amount>
+        <sender>250780000002</sender>
+        <receiver>250780000006</receiver>
+        <timestamp>2026-01-22T19:00:00</timestamp>
+        <status>completed</status>
+    </transaction>
+</transactions>
