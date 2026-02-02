@@ -43,8 +43,8 @@ Check out our full [Team Participation Sheet](team_participation.md) for more de
 ### 1. Clone and Run
 
 ```bash
-git clone https://github.com/Darlene250/momo-api-alu-final.git
-cd momo-api-alu-final
+git clone https://github.com/solomon-211/MoMo_Rest_API_Formative_Assignment
+cd MoMo_Rest_API_Formative_Assignment/momo-api-alu-final/
 python api/server.py
 ```
 
